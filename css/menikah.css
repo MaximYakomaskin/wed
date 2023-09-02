@@ -39,7 +39,7 @@ html {
 
 
 .hero {
-  background-image: url("src/wedding.jpg");
+  background-image: url("src/image/more.jpg");
   background: linear-gradient(rgba(255, 255, 255, 0.65), rgba(255, 255, 255, 0.65)), rgba(255, 255, 255, 0.55) 0.55) url("hd/381/1920/1080") no-repeat; 
   background-attachment: fixed;
   background-size: cover;
